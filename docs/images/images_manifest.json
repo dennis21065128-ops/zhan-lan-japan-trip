@@ -1,0 +1,55 @@
+{
+  "status": "placeholders_only",
+  "policy": "優先採官方網站、官方社群、開放授權圖片或使用者自行拍攝照片；不要未經許可抓取 Google Maps 使用者照片。",
+  "items": [
+    {
+      "id": "dazaifu-tenmangu",
+      "required": [
+        "hero",
+        "approach",
+        "temporary-main-hall",
+        "umegae-mochi"
+      ]
+    },
+    {
+      "id": "lalaport-fukuoka",
+      "required": [
+        "hero",
+        "gundam-front",
+        "gundam-night",
+        "mall-interior"
+      ]
+    },
+    {
+      "id": "eel-eight",
+      "required": [
+        "exterior",
+        "unagi-set",
+        "ochazuke"
+      ]
+    },
+    {
+      "id": "menya-kanetora",
+      "required": [
+        "exterior",
+        "tsukemen"
+      ]
+    },
+    {
+      "id": "full-full-hakata",
+      "required": [
+        "exterior",
+        "mentaiko-baguette"
+      ]
+    },
+    {
+      "id": "souvenirs",
+      "required": [
+        "kayanoya-dashi",
+        "menbei",
+        "hakata-torimon",
+        "fukusaya-castella"
+      ]
+    }
+  ]
+}
